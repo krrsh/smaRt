@@ -1,6 +1,5 @@
 import React from "react";
-import Navbar from "../Components/Navbar";
-import Card from "../Components/card";
+import Card from "../Components/Card";
 import CartSummary from "../Components/CartSummary";
 import { useEffect, useState } from "react";
 import axios from "axios";
